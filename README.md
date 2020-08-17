@@ -1,4 +1,4 @@
- # NEIDE - NEural Identification of Unconventional Food Plants      
+ # NEIDE - NEural IDEntification of Unconventional Food Plants      
 
 [![Conference](http://img.shields.io/badge/book-2020-4b44ce.svg)](https://www.eliasjacob.com.br)  
 
